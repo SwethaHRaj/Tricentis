@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T14:26:53 IST" name="Suite" finished-at="2023-02-28T14:29:08 IST" duration-ms="135103">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T14:26:53 IST" name="Test" finished-at="2023-02-28T14:29:08 IST" duration-ms="135103">
+      <class name="home_Automobile.EndToEnd">
+        <test-method is-config="true" signature="launch()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:26:54 IST" name="launch" finished-at="2023-02-28T14:27:08 IST" duration-ms="14429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="calculateInsurance(java.lang.Object)[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:27:08 IST" name="calculateInsurance" data-provider="data" finished-at="2023-02-28T14:27:27 IST" duration-ms="18646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Quote_Phone=9113287789, Vehicle_Engine Performance [kW]=1000.0, Vehicle_License Plate Number=1234, Insurant_Gender=Male, Insurant_Country=India, Vehicle_List Price [$]=5000, Quote_Password=Ramraj.1, Insurant_City=Bangalore, Product_Start Date=04/05/2023, TC No=1.0, Price_Option=Platinum, Vehicle_Fuel Type=Petrol, Quote_Comments=Thank You..., Vehicle_Date of Manufacture=10/11/2020, Quote_Confirm Password=Ramraj.1, Vehicle_Annual Mileage [mi]=6000, Quote_E-Mail=swethahr04@gmail.com, Vehicle_Make=Audi, Insurant_Last Name=Raj, Quote_Username=Ram_Raj, Insurant_Website=www.ram.com, Product_Merit Rating=Bonus 4, Insurant_First Name=Ram, Insurant_Street Address=Courtesy Car, Insurant_Hobbies=Speeding,Other, Insurant_Picture=, Product_Damage Insurance=Partial Coverage, Vehicle_Type=Automobile, Product_Optional Products=Legal Defense Insurance, Insurant_Occupation=Employee, Insurant_Zip Code=123456, Product_Courtesy Car=No, TC Name=Verify insurance premiunm for Audi Automobile, Vehicle_Number of Seats=4, Product_Insurance Sum [$]=7000000, Insurant_Date of Birth=03/04/1992}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateInsurance -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:27:27 IST" name="cleanUp" finished-at="2023-02-28T14:27:43 IST" duration-ms="16200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:27:43 IST" name="launch" finished-at="2023-02-28T14:27:51 IST" duration-ms="8255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="calculateInsurance(java.lang.Object)[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:27:51 IST" name="calculateInsurance" data-provider="data" finished-at="2023-02-28T14:28:10 IST" duration-ms="19081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Quote_Phone=9113287789, Vehicle_Engine Performance [kW]=1100, Vehicle_License Plate Number=1234, Insurant_Gender=Male, Insurant_Country=India, Vehicle_List Price [$]=5000, Quote_Password=Ramraj.1, Insurant_City=Bangalore, Product_Start Date=04/05/2023, TC No=2, Price_Option=Platinum, Vehicle_Fuel Type=Petrol, Quote_Comments=Thank You..., Vehicle_Date of Manufacture=10/11/2020, Quote_Confirm Password=Ramraj.1, Vehicle_Annual Mileage [mi]=6000, Quote_E-Mail=swethahr04@gmail.com, Vehicle_Make=Skoda, Insurant_Last Name=Raj, Quote_Username=Ram_Raj, Insurant_Website=www.ram.com, Product_Merit Rating=Bonus 4, Insurant_First Name=Ram, Insurant_Street Address=Courtesy Car, Insurant_Hobbies=Speeding,Other, Insurant_Picture=, Product_Damage Insurance=Partial Coverage, Vehicle_Type=Automobile, Product_Optional Products=Legal Defense Insurance, Insurant_Occupation=Employee, Insurant_Zip Code=123456, Product_Courtesy Car=No, TC Name=Verify insurance premiunm for Audi Automobile, Vehicle_Number of Seats=5, Product_Insurance Sum [$]=7000000, Insurant_Date of Birth=03/04/1992}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateInsurance -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:28:10 IST" name="cleanUp" finished-at="2023-02-28T14:28:27 IST" duration-ms="16143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:28:27 IST" name="launch" finished-at="2023-02-28T14:28:34 IST" duration-ms="7725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="calculateInsurance(java.lang.Object)[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:28:34 IST" name="calculateInsurance" data-provider="data" finished-at="2023-02-28T14:28:52 IST" duration-ms="17232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Quote_Phone=9113287789, Vehicle_Engine Performance [kW]=1200, Vehicle_License Plate Number=1234, Insurant_Gender=Male, Insurant_Country=India, Vehicle_List Price [$]=5000, Quote_Password=Ramraj.1, Insurant_City=Bangalore, Product_Start Date=04/05/2023, TC No=3, Price_Option=Platinum, Vehicle_Fuel Type=Petrol, Quote_Comments=Thank You..., Vehicle_Date of Manufacture=10/11/2020, Quote_Confirm Password=Ramraj.1, Vehicle_Annual Mileage [mi]=6000, Quote_E-Mail=swethahr04@gmail.com, Vehicle_Make=BMW, Insurant_Last Name=Raj, Quote_Username=Ram_Raj, Insurant_Website=www.ram.com, Product_Merit Rating=Bonus 4, Insurant_First Name=Ram, Insurant_Street Address=Courtesy Car, Insurant_Hobbies=Speeding,Other, Insurant_Picture=, Product_Damage Insurance=Partial Coverage, Vehicle_Type=Automobile, Product_Optional Products=Legal Defense Insurance, Insurant_Occupation=Employee, Insurant_Zip Code=123456, Product_Courtesy Car=No, TC Name=Verify insurance premiunm for Audi Automobile, Vehicle_Number of Seats=6, Product_Insurance Sum [$]=7000000, Insurant_Date of Birth=03/04/1992}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateInsurance -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:home_Automobile.EndToEnd@e98770d]" started-at="2023-02-28T14:28:52 IST" name="cleanUp" finished-at="2023-02-28T14:29:08 IST" duration-ms="16203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- home_Automobile.EndToEnd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
